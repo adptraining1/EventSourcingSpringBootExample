@@ -7,4 +7,4 @@ You will need to install Hazelcast and run it as a server (with the default conf
 You will need to install Redis and run redis-server
 
 ## Status
-This project is outdated, and no longer maintained.
+This project is outdated, and no longer maintained. Maybe you want to checkout other repositories on GitHub.
